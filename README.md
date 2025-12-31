@@ -3,21 +3,24 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-[Brief Introduction - Remove this afterwards]
+👋 Hi, I'm Aseel  
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+IT & Cybersecurity enthusiast with hands-on experience in systems,  
+networking, and security fundamentals. I enjoy building labs,  
+learning new technologies, and solving technical problems.
+
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seeking a SOC Level 1 role where I can apply my foundational knowledge in cybersecurity,  
+monitor security alerts, and gain hands-on experience in incident detection and response.
+
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| 🔧 Security Automation (SOAR & EDR)          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
