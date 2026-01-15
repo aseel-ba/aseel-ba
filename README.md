@@ -29,38 +29,35 @@ monitor security alerts, and gain hands-on experience in incident detection and 
 | 🎟️ Ticketing Systems & Case Management | SOC Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+
+### 🖥️ Endpoint Detection & Monitoring
+
+![LimaCharlie](https://img.shields.io/badge/LimaCharlie_EDR-FF4C00?style=for-the-badge&logo=target&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Defender](https://img.shields.io/badge/Windows_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-eJPT-006BB4?style=for-the-badge&logo=elearnsecurity&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## 📁 Projects
+
+- ⚡ **[SOAR-EDR Automation](https://github.com/aseel-ba/SOAR-EDR-Security-Automation)**: Real-time threat detection & response automation.
+- 🍯 **[Honeypot Lab](https://github.com/aseel-ba/Honeypot)**: Live attack monitoring & visualization using ELK.
+- 🏢 **[Active Directory](https://github.com/aseel-ba/Active-Directory)**: Enterprise network design & security hardening.
+- 🛡️ **[SOC Analyst Challenge](https://youtu.be/W3ExS2m6B24)**: Practical experience in SIEM & incident handling.
