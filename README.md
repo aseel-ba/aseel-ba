@@ -23,7 +23,7 @@ monitor security alerts, and gain hands-on experience in incident detection and 
 |-----------------------------------------------|----------------------------|
 | 🔧 Security Automation (SOAR & EDR)            | <a href="https://github.com/aseel-ba/SOAR-EDR-Security-Automation">SOAR EDR</a>|
 | 🛡️ Threat Intelligence & Attack Observation    | <a href="https://github.com/aseel-ba/Honeypot">Honypot</a>|
-| Security Automation with Shuffle SOAR          | <a href="[https://github.com/aseel-ba/Honeypot](https://github.com/aseel-ba/Active-Directory)">Active Directory </a>|
+| Security Automation with Shuffle SOAR          | <a href="https://github.com/aseel-ba/Active-Directory">Active Directory</a>|
 | 🖥️ Active Directory & Identity Management      | <a href="https://github.com/aseel-ba/Active-Directory">🖥️ Active Directory & Identity Management</a>|
 |📊 SIEM Deployment & Log Analysis (ELK) | SOC LAB|
 | 🎟️ Ticketing Systems & Case Management | SOC Lab|
