@@ -21,12 +21,12 @@ monitor security alerts, and gain hands-on experience in incident detection and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| 🔧 Security Automation (SOAR & EDR)          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| 🔧 Security Automation (SOAR & EDR)            | <a href="https://github.com/aseel-ba/SOAR-EDR-Security-Automation">SOAR EDR</a>|
+| 🛡️ Threat Intelligence & Attack Observation    | <a href="https://github.com/aseel-ba/Honeypot">Honypot</a>|
+| Security Automation with Shuffle SOAR          | <a href="https://github.com/aseel-ba/Honeypot">Honeypot</a>|
+| 🖥️ Active Directory & Identity Management      | <a href="https://github.com/aseel-ba/Active-Directory">🖥️ Active Directory & Identity Management</a>|
+|📊 SIEM Deployment & Log Analysis (ELK) | SOC LAB|
+| 🎟️ Ticketing Systems & Case Management | SOC Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
